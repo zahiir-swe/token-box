@@ -24,8 +24,8 @@ Les secrets sont chiffrés et stockés dans le trousseau natif de votre système
 ### Procédure rapide
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-user/TokenBox.git
-   cd TokenBox
+   git clone https://github.com/votre-user/token-box.git
+   cd token-box
    ```
 
 2. Lancez le script d'installation :
